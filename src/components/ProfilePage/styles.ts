@@ -1,4 +1,4 @@
-import styled, {css} from 'styled-components';
+import styled, { css } from 'styled-components';
 
 import { LocationOn, Cake } from '../../styles/icons';
 import Button from '../Button';
