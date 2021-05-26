@@ -8,7 +8,7 @@ export const Container = styled.div`
 `;
 
 export const Item =  styled.div`
-  padding: 10 16px;
+  padding: 10px 16px;
 
   & + div {
     border-top: 1px solid var(--outline);
